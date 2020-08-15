@@ -12,6 +12,8 @@ SuperPang a 2D game build on unity.
 
 
 <img width="1233" alt="Screenshot 2020-08-16 at 00 11 09" src="https://user-images.githubusercontent.com/27746978/90323364-23dca400-df58-11ea-845b-c92eaf0bc89d.png">
+<img width="1170" alt="Screenshot 2020-08-16 at 00 11 58" src="https://user-images.githubusercontent.com/27746978/90323390-7d44d300-df58-11ea-9e19-84bdc359bdce.png">
+<img width="1280" alt="Screenshot 2020-08-16 at 00 18 25" src="https://user-images.githubusercontent.com/27746978/90323396-8df54900-df58-11ea-843e-058b18286b0d.png">
 
 ## Design pattern
 Prefabs design pattern in used which allows to create complex hierachies of objects that are easy to edit at multiple levels.
