@@ -1,11 +1,4 @@
 # Super-Pang2D-Game
-This game is the college project and it is build in Unity Engine using C# programming language.
-This is the College Project where I have to create my own rules and set those rule in game.
-This Game is being Developed by using Unity Engine and C# Programming language.
-
-
-
-![Bikeapp](https://user-images.githubusercontent.com/27746978/90322954-ca25ab00-df52-11ea-860b-0cc27eec8282.png)
 
 SuperPang a 2D game build on unity.
 
@@ -18,8 +11,16 @@ SuperPang a 2D game build on unity.
 * If all ball busted next level start with 2 balls/Balloons
 
 
+<img width="1233" alt="Screenshot 2020-08-16 at 00 11 09" src="https://user-images.githubusercontent.com/27746978/90323364-23dca400-df58-11ea-845b-c92eaf0bc89d.png">
+
 ## Design pattern
 Prefabs design pattern in used which allows to create complex hierachies of objects that are easy to edit at multiple levels.
+
+## Languages Use:
+
+* This game is build on Unity using C# as a programming language to craete a game logic and impletemnet rules.
+* Adobe illustrator is used to design the player.
+* Adobe After Effect is use to animate the player when moving left and right.
 
 ## License:
 ```
